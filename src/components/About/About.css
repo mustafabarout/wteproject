@@ -1,0 +1,17 @@
+/* About.css */
+.animate__animated {
+    animation-duration: 1s;
+  }
+  
+  .animate__fadeInLeft {
+    animation-name: fadeInLeft;
+  }
+  
+  .animate__fadeInRight {
+    animation-name: fadeInRight;
+  }
+  
+  .animate__fadeInUp {
+    animation-name: fadeInUp;
+  }
+  
